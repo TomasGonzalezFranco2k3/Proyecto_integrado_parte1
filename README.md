@@ -28,3 +28,4 @@ entrega 1 del proyecto integrado
 4. Archivos de ensamblaje Scaffolds
 5. Archivo reporte de quast
 6. Archivos BAM indexados
+7. Reportes MultiQC y FastQC
