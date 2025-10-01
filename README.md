@@ -26,6 +26,6 @@ entrega 1 del proyecto integrado
      
 3. Informe que documenta lo concluido en el proceso
 4. Archivos de ensamblaje Scaffolds y Contigs que se usaron en el mapeo
-5. Archivo reporte de quast
+5. Archivos reporte de quast
 6. Archivos BAM indexados
 7. Reportes MultiQC y FastQC
