@@ -21,5 +21,7 @@ entrega 1 del proyecto integrado
          f) quast.sh
      
          g) map.sh
+
+         h) depth.sh
      
 3. Informe que documenta lo concluido en el proceso
