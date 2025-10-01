@@ -2,5 +2,24 @@
 entrega 1 del proyecto integrado
 
 ***Índice:***
+
+
   1. Carpeta de Scripts que contiene todos los scripts que se utilizaron para el trabajo
-  2. Informe que documenta lo concluido en el proceso
+     
+      Este es el orden de ejecución
+     
+         a) setup.sh
+     
+         b) qc_pre.sh
+     
+         c) trimfastp.sh
+     
+         d) qc_post.sh
+     
+         e) spades.sh
+     
+         f) quast.sh
+     
+         g) map.sh
+     
+3. Informe que documenta lo concluido en el proceso
